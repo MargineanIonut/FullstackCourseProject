@@ -1,0 +1,4 @@
+Romania : Bucharest
+Ungaria : Budapest
+Ucraina : Kiev
+USA : Washington

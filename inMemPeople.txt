@@ -1,0 +1,4 @@
+Ionut, Marginean: 23
+Andrei, Selegean: 33
+Alex, Adrian: 43
+Paul, Razvan: 12
